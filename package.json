@@ -1,0 +1,23 @@
+{
+  "name": "naive-computational-poetry",
+  "version": "0.0.1",
+  "description": "Naive computational poetry thing that take a txt file and human impulses to generate nonsense.",
+  "main": "index.js",
+  "dependencies": {
+    "fuzzyset.js": "0.0.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nonsense",
+    "node",
+    "poetry",
+    "computational poetry"
+  ],
+  "author": "",
+  "license": "ISC"
+}
